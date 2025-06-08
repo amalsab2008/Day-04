@@ -26,7 +26,7 @@
 - `traceroute` – Show route path to a host
 - `nslookup` – Query Internet name servers
 
-![Networking](networkingcommand.png)
+![Networking](networkingcommand.jpg)
 
 ---
 
